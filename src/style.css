@@ -1,0 +1,31 @@
+
+.card{
+    height: 350px;  
+    width: 300px;
+    margin-right: 30px;
+    border-style:dashed;
+    border-color: brown;   
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.img{
+    height: 300px;
+    width: 300px;
+}
+
+.items-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+    align-items: start;
+    
+
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
